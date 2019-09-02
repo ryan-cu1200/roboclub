@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/roboclub/static/css/main.ed631095.chunk.css",
+    "main.js": "/roboclub/static/js/main.fe169ab6.chunk.js",
+    "main.js.map": "/roboclub/static/js/main.fe169ab6.chunk.js.map",
+    "runtime~main.js": "/roboclub/static/js/runtime~main.a5c34b16.js",
+    "runtime~main.js.map": "/roboclub/static/js/runtime~main.a5c34b16.js.map",
+    "static/js/2.d3410d48.chunk.js": "/roboclub/static/js/2.d3410d48.chunk.js",
+    "static/js/2.d3410d48.chunk.js.map": "/roboclub/static/js/2.d3410d48.chunk.js.map",
+    "index.html": "/roboclub/index.html",
+    "precache-manifest.c1735a3ad72e513202a2f05ad33e06ee.js": "/roboclub/precache-manifest.c1735a3ad72e513202a2f05ad33e06ee.js",
+    "service-worker.js": "/roboclub/service-worker.js",
+    "static/css/main.ed631095.chunk.css.map": "/roboclub/static/css/main.ed631095.chunk.css.map"
+  }
+}
