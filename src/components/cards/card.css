@@ -1,0 +1,42 @@
+.card-list {
+  width: 10px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+  grid-gap: 10px;
+ 
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  background-color:  #f77b6e;
+  border: 1px solid grey;
+  border-radius: 5px;
+  cursor: pointer;
+  padding: 20px;
+
+  -moz-osx-font-smoothing: grayscale;
+  backface-visibility: hidden;
+  transform: translateZ(0);
+  transition: transform 0.25s ease-out;
+}
+
+.card-container:hover {
+  transform: scale(1.05);
+}
+
+.search{
+  border:none;
+  outline:none;
+  padding:10px;
+  width:150px;
+  line-height:30px;
+  margin-bottom:30px;
+}
+.hp{
+  font-family: "indie Flower";
+  font-size:70px;
+}
+.divv{
+  background-color: #97b5ce
+}
